@@ -1,0 +1,38 @@
+[
+  {
+    "id": "de-01",
+    "country": "germany",
+    "name": "Германия",
+    "flag": "🇩🇪",
+    "protocol": "HTTP",
+    "host": "178.132.2.175",
+    "port": "12601",
+    "username": "eu3051202",
+    "password": "lvUxA9Ov3c",
+    "ip": "178.132.2.175",
+    "ping": "25",
+    "location": {
+      "lat": 51.1657,
+      "lon": 10.4515
+    },
+    "premium": false
+  },
+  {
+    "id": "pl-01",
+    "country": "poland",
+    "name": "Польша",
+    "flag": "🇵🇱",
+    "protocol": "HTTP",
+    "host": "83.168.125.81",
+    "port": "7110",
+    "username": "user356665",
+    "password": "d9spxf",
+    "ip": "83.168.125.81",
+    "ping": "18",
+    "location": {
+      "lat": 51.9194,
+      "lon": 19.1451
+    },
+    "premium": true
+  }
+]
