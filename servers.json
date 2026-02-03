@@ -1,8 +1,8 @@
 [
   {
-    "id": "de-01",
+    "id": "de-premium-1",
     "country": "germany",
-    "name": "Германия",
+    "name": "🇩🇪 Германия (Premium)",
     "flag": "🇩🇪",
     "protocol": "HTTP",
     "host": "178.132.2.175",
@@ -15,24 +15,46 @@
       "lat": 51.1657,
       "lon": 10.4515
     },
-    "premium": false
+    "premium": true,
+    "status": "online"
   },
   {
-    "id": "pl-01",
+    "id": "pl-premium-1",
     "country": "poland",
-    "name": "Польша",
+    "name": "🇵🇱 Польша (Premium)",
     "flag": "🇵🇱",
     "protocol": "HTTP",
-    "host": "83.168.125.81",
+    "host": "2.56.113.94",
     "port": "7110",
     "username": "user356665",
     "password": "d9spxf",
-    "ip": "83.168.125.81",
+    "ip": "2.56.113.94",
     "ping": "18",
     "location": {
-      "lat": 51.9194,
-      "lon": 19.1451
+      "lat": 52.2297,
+      "lon": 21.0122
     },
-    "premium": true
+    "premium": true,
+    "status": "online"
+  },
+  {
+    "id": "pl-premium-1-socks5",
+    "country": "poland",
+    "name": "🇵🇱 Польша SOCKS5 (Premium)",
+    "flag": "🇵🇱",
+    "protocol": "SOCKS5",
+    "host": "2.56.113.94",
+    "port": "17110",
+    "username": "user356665",
+    "password": "d9spxf",
+    "ip": "2.56.113.94",
+    "ping": "18",
+    "location": {
+      "lat": 52.2297,
+      "lon": 21.0122
+    },
+    "premium": true,
+    "status": "online",
+    "note": "SOCKS5 версия - быстрее и безопаснее"
   }
 ]
