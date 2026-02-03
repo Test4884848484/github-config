@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "releaseDate": "2026-01-31",
-  "downloadUrl": "https://github.com/your-username/flaxvpn-config/releases/download/v1.0.0/flaxvpn.zip",
+  "releaseDate": "2026-02-03",
+  "downloadUrl": "https://github.com/Test4884848484/github-config/releases/download/v1.0.0/flaxvpn.zip",
   "changelog": [
     "Первый релиз FlaxVPN",
     "Поддержка HTTP прокси",
     "Автоматический выбор серверов",
     "Статистика трафика в реальном времени",
-    "OAuth авторизация"
+    "Интеграция с Vercel API"
   ],
   "minBrowserVersion": "120"
 }
